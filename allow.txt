@@ -1,0 +1,6 @@
+!
+! Title: Jay's allow list
+! Description: I just want youtube to remember what I watched
+! Version: 1.0
+
+||s.youtube.com

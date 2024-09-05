@@ -1,7 +1,8 @@
 !
 ! Title: Jay's allow list
-! Description: I just want youtube to remember what I watched
 ! Version: 1.0
 
+! I just want youtube to remember what I watched
 ||s.youtube.com
+! tenplay needs this to work
 ||pubads.g.doubleclick.net
